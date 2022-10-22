@@ -95,7 +95,7 @@ const menuList = [
     ],
   },
   {
-    title: "路由嵌套",
+    title: "Ant组件DEMO",
     path: "/nested",
     icon: "cluster",
     roles:["admin","editor"],
